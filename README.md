@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincent9705&label=Profile%20views&color=0e75b6&style=flat" alt="vincent9705" /> </p>
 
-- 🌱 I’m currently learning **PHP, Yii2, React**
+- 🌱 I’m currently learning **Laravel, NextJs, And Google Big Query**
 
-- 💬 Ask me about **VB, SQL, PHP**
+- 💬 Ask me about **VB, SQL, PHP, System & Database Structure Design**
 
 - 📫 How to reach me **vincent971005@gmail.com**
 
